@@ -1,4 +1,7 @@
 // Source Code from google's analysis
+// Question: Kick start 2019/Practice Round/Number Guessing
+// Complexity: O(log(hi-lo))
+// Date: 2019-04-20 17:24:22 - 17:29:00， 2 wrong tries
 #include <iostream>
 #include <string>
 int main() {
